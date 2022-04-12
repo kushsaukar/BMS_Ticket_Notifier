@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009747297197",
+    "firebase_url": "https://book-my-show-ticket-default-rtdb.firebaseio.com",
+    "project_id": "book-my-show-ticket",
+    "storage_bucket": "book-my-show-ticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009747297197:android:a91fcb50be4d8d6ab09724",
+        "android_client_info": {
+          "package_name": "com.kushsaukar.bmsticketnotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009747297197-fto6lulnmd6mreep7r74481mee28ofcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFTwXLsLHM3gWF_u21V9gXd6YSdT61GBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009747297197-fto6lulnmd6mreep7r74481mee28ofcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
